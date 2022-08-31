@@ -1,2 +1,3 @@
-# rock-paper-scissors-odin
-A simple Rock/Paper/Scissors game made on The Odin Project
+This Project was made on The Odin Project (TOP). https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+
+**Preview:**
